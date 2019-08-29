@@ -39,3 +39,4 @@ class PupMap {
     this.afterCloseFunction = func;
   }
 }
+module.exports = PupMap;
